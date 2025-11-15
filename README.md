@@ -1,1 +1,2 @@
-# Mini_todolist
+# Mini-project_Todo.list
+
